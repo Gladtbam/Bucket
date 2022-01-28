@@ -38,14 +38,14 @@
                 "url": "https://github.com/Molunerfinn/PicGo/releases/download/v$version/PicGo-Setup-$version-x64.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
-                    "regex": "sha512:\\s+(?sm)64\\.exe?.*$base64"
+                    "regex": "(?sm)64\\.exe?.*$base64"
                 }
             },
             "32bit": {
                 "url": "https://github.com/Molunerfinn/PicGo/releases/download/v$version/PicGo-Setup-$version-ia32.exe#/dl.7z",
                 "hash": {
                     "url": "$baseurl/latest.yml",
-                    "regex": "sha512:\\s+(?sm)ia32\\.exe?.*$base64"
+                    "regex": "(?sm)ia32\\.exe?.*$base64"
                 }
             }
         }
