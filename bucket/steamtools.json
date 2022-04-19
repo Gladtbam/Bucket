@@ -12,6 +12,10 @@
             "Steam++"
         ]
     ],
+    "persist": [
+        "AppData",
+        "Cache"
+    ],
     "checkver": {
         "url": "https://github.com/BeyondDimension/SteamTools/releases",
         "regex": "/releases/tag/(?<version>.+?)\""
