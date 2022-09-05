@@ -27,7 +27,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/popcorn-official/popcorn-desktop/releases/latest",
+        "github": "https://github.com/popcorn-official/popcorn-desktop/releases",
         "regex": "<title>Release v([\\d.]+)"
     },
     "autoupdate": {
