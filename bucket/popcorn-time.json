@@ -28,7 +28,7 @@
     ],
     "checkver": {
         "github": "https://github.com/popcorn-official/popcorn-desktop/releases",
-        "regex": "<title>Release v([\\d.]+)"
+        "regex": "/Popcorn-Time-([\\d.]+)-(win64|win32)\\.zip"
     },
     "autoupdate": {
         "architecture": {
