@@ -26,7 +26,7 @@
     ],
     "checkver": {
         "url": "https://release.tinymediamanager.org/",
-        "regex": "v3/dist/tmm_([\\d\\.]+)_win\\.zip"
+        "regex": "v3/dist/tmm_([\\d.]+)_win\\.zip"
     },
     "autoupdate": {
         "url": "https://release.tinymediamanager.org/v3/dist/tmm_$version_win.zip",
