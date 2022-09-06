@@ -1,7 +1,7 @@
 {
     "description": "Oracle Java Platform, Standard Edition Runtime Environment (JRE)",
     "homepage": "https://www.java.com/",
-    "version": "8u341",
+    "version": "8u333",
     "license": "https://www.oracle.com/technetwork/java/javase/terms/license/javase-license.html",
     "architecture": {
         "64bit": {
