@@ -29,13 +29,13 @@
     "bin": [
         [
             "BaiduNetdisk.exe",
-            "Baidu\\BaiduNetdisk"
+            "BaiduNetdisk"
         ]
     ],
     "shortcuts": [
         [
             "BaiduNetdisk.exe",
-            "Baidu\\BaiduNetdisk"
+            "BaiduNetdisk"
         ]
     ],
     "persist": "users",
