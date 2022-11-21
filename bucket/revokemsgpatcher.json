@@ -5,7 +5,6 @@
     "license": "GPL-3.0",
     "url": "https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/1.6/RevokeMsgPatcher.v1.6.zip",
     "hash": "ed18771135a4a24851c441b869520ab3c7678cd1051962581fb090d794e48a73",
-    "extract_dir": "RevokeMsgPatcher",
     "shortcuts": [
         [
             "RevokeMsgPatcher.exe",
