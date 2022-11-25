@@ -43,7 +43,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://list.gladtbam.top/d/%E8%BD%AF%E4%BB%B6/QQ/",
+        "url": "https://list.gladtbam.top/%E8%BD%AF%E4%BB%B6/QQ",
         "regex": "QQ_([\\d.-]+).7z"
     },
     "autoupdate": {
