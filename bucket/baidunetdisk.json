@@ -40,7 +40,7 @@
     ],
     "persist": "users",
     "checkver": {
-        "github": "https://list.gladtbam.top/d/%E8%BD%AF%E4%BB%B6/BaiduNetdisk/",
+        "url": "https://list.gladtbam.top/d/%E8%BD%AF%E4%BB%B6/BaiduNetdisk/",
         "regex": "BaiduNetdisk-([\\d.-]+).7z"
     },
     "autoupdate": {
