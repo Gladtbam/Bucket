@@ -6,8 +6,10 @@
 scoop bucket add gladtbam https://github.com/Gladtbam/Bucket
 ```
 
-#### To use this template
-
-- Modify the Readme.md and the bin/auto-pr.ps1 files accordingly.
-- Enable GitHub Actions for this repository.
-- Login to AppVeyor and import this repository.
+## 注意
+本 Bucket 包含一些软件的绿色版本，请自行斟酌使用这些软件的风险
+**绿化软件**
+| 软件 | JSON |
+| :------: | :------: |
+| 百度网盘 | baidunetdisk |
+| QQ | qq-dreamcast |
