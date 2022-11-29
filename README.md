@@ -7,7 +7,7 @@ scoop bucket add gladtbam https://github.com/Gladtbam/Bucket
 ```
 
 ## 注意
-本 Bucket 包含一些软件的绿色版本，请自行斟酌使用这些软件的风险
+本 Bucket 包含一些软件的绿色版本，请自行斟酌使用这些软件的风险  
 **绿化软件**
 | 软件 | JSON |
 | :------: | :------: |
