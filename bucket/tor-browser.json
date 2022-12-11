@@ -1,17 +1,17 @@
 {
     "##": "Multiple components under various open source licenses. Included HTTPS Everywhere extension is the strictest.",
-    "version": "11.5.8",
+    "version": "12.0",
     "description": "Web browser that connects to the internet via the Tor anonymity network",
     "homepage": "https://www.torproject.org/",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://dist.torproject.org/torbrowser/11.5.8/torbrowser-install-win64-11.5.8_zh-CN.exe",
-            "hash": "ffcb0a46b93e999150b7cbdb7813c2ac481b7add4a251de0e39f71dc018ffea8"
+            "url": "https://dist.torproject.org/torbrowser/12.0/torbrowser-install-win64-12.0_ALL.exe",
+            "hash": "f496cc0219c8b73f1f100124d6514bad55f503ff76202747f23620a6677e83c2"
         },
         "32bit": {
-            "url": "https://dist.torproject.org/torbrowser/11.5.8/torbrowser-install-11.5.8_zh-CN.exe",
-            "hash": "62acda21cd767030db23e4001f6e6c2a265bb28fc44213e026f74bfca01e471f"
+            "url": "https://dist.torproject.org/torbrowser/12.0/torbrowser-install-12.0_ALL.exe",
+            "hash": "a9cc0f0af2ce8ca0d7a27d65c7efa37f6419cfc793fa80371e7db73d44b4cc02"
         }
     },
     "installer": {
@@ -48,10 +48,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://dist.torproject.org/torbrowser/$version/torbrowser-install-win64-$version_zh-CN.exe"
+                "url": "https://dist.torproject.org/torbrowser/$version/torbrowser-install-win64-$version_ALL.exe"
             },
             "32bit": {
-                "url": "https://dist.torproject.org/torbrowser/$version/torbrowser-install-$version_zh-CN.exe"
+                "url": "https://dist.torproject.org/torbrowser/$version/torbrowser-install-$version_ALL.exe"
             }
         },
         "hash": {
