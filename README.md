@@ -6,6 +6,10 @@
 scoop bucket add gladtbam https://github.com/Gladtbam/Bucket
 ```
 
+***
+> **本 Bucket 仅 x64 应用，无 x86**
+***
+
 ## 注意
 
 本 Bucket 包含一些软件的绿色版本，请自行斟酌使用这些软件的风险
