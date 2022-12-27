@@ -28,23 +28,6 @@
                     "-s"
                 ]
             ]
-        },
-        "32bit": {
-            "shortcuts": [
-                [
-                    "Ventoy2Disk.exe",
-                    "Ventoy2Disk"
-                ],
-                [
-                    "VentoyPlugson.exe",
-                    "VentoyPlugson"
-                ],
-                [
-                    "VentoyVlnk.exe",
-                    "VentoyVlnk",
-                    "-s"
-                ]
-            ]
         }
     },
     "persist": [

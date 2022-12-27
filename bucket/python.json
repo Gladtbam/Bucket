@@ -8,10 +8,6 @@
         "64bit": {
             "url": "https://www.python.org/ftp/python/3.11.1/python-3.11.1-amd64.exe#/setup.exe",
             "hash": "md5:3a02deed11f7ff4dbc1188d201ad164a"
-        },
-        "32bit": {
-            "url": "https://www.python.org/ftp/python/3.11.1/python-3.11.1.exe#/setup.exe",
-            "hash": "md5:a592f5db4f45ddc3a46c0ae465d3bee0"
         }
     },
     "pre_install": [
@@ -89,9 +85,6 @@
         "architecture": {
             "64bit": {
                 "url": "https://www.python.org/ftp/python/$version/python-$version-amd64.exe#/setup.exe"
-            },
-            "32bit": {
-                "url": "https://www.python.org/ftp/python/$version/python-$version.exe#/setup.exe"
             }
         },
         "hash": {

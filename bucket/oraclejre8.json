@@ -7,10 +7,6 @@
         "64bit": {
             "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247137_10e8cce67c7843478f41411b7003171c#/dl.tar.gz",
             "hash": "5af23fdfdb457166992d1ab4b3fdc8ef5254b525f039dcddc1c2cf8346712d58"
-        },
-        "32bit": {
-            "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247135_10e8cce67c7843478f41411b7003171c#/dl.tar.gz",
-            "hash": "29fd1e598239e3767739ea46ecf0594d93af39899afe06bbf4e3623adb0c99f3"
         }
     },
     "extract_dir": "jre1.8.0_351",
@@ -34,9 +30,6 @@
         "architecture": {
             "64bit": {
                 "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=$matchWin64b_$matchSecid#/dl.tar.gz"
-            },
-            "32bit": {
-                "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=$matchWin32b_$matchSecid#/dl.tar.gz"
             }
         },
         "extract_dir": "jre$matchLong"
