@@ -1,13 +1,13 @@
 {
     "homepage": "https://github.com/lyswhut/lx-music-desktop",
     "description": "一个基于 electron 的音乐软件",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "license": "Apache-2.0",
     "notes": "Changing music download folder is HIGHLY recommended.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.0.2/lx-music-desktop-v2.0.2-win_x64-green.7z",
-            "hash": "41cc3c5739bfe06aa316353a72606e0a88764760c0b181f47eb10ee8de844b85"
+            "url": "https://github.com/lyswhut/lx-music-desktop/releases/download/v2.0.3/lx-music-desktop-v2.0.3-win_x64-green.7z",
+            "hash": "0766377ed38c5904a5d0c1cd2db146d021b23e50c96b453453c9e244d5685f39"
         }
     },
     "shortcuts": [
