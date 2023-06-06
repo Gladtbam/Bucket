@@ -1,5 +1,5 @@
 {
-    "version": "113.0.2",
+    "version": "114.0",
     "description": "Popular open source web browser.",
     "homepage": "https://www.mozilla.org/firefox/",
     "license": "MPL-2.0",
@@ -11,12 +11,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ftp.mozilla.org/pub/firefox/releases/113.0.2/win64/zh-CN/Firefox%20Setup%20113.0.2.exe#/dl.7z",
-            "hash": "sha512:399cad4fe23970403606a0686e89cf9f4ec31bbe9e01cf5fe0145f9fc79b9afc883865699bdada927775541cf67e8fc2a1e53915e7b523c551d3f66c4140297d"
+            "url": "https://ftp.mozilla.org/pub/firefox/releases/114.0/win64/zh-CN/Firefox%20Setup%20114.0.exe#/dl.7z",
+            "hash": "sha512:1b5e9874395725856e578842aa9627c32e91cd0ad50ad78cb11532305f62d0acdc32870cb23dcdd2b990ca1c2100acc193892f2701ba4901e2b4fede4d52b6bc"
         },
         "arm64": {
-            "url": "https://ftp.mozilla.org/pub/firefox/releases/113.0.2/win64-aarch64/zh-CN/Firefox%20Setup%20113.0.2.exe#/dl.7z",
-            "hash": "sha512:0b7e91c0dfbf3bbe70a248482c76fb034eb0883f7a1fadbfb811dd2d219715b000d8b60f6adb7fbcfd1741b8da7059fb57d8937002b7ef0c563e099b060c4ac6"
+            "url": "https://ftp.mozilla.org/pub/firefox/releases/114.0/win64-aarch64/zh-CN/Firefox%20Setup%20114.0.exe#/dl.7z",
+            "hash": "sha512:d8c756fdbdb1e31c44c563ca2189ad045b711d47576f868f073b15fc2d5571874b10add32adb4d6e9ae73f4da96e992b304e691bae3b016812b8723590382cce"
         }
     },
     "extract_dir": "core",
