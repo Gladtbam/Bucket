@@ -1,5 +1,5 @@
 {
-    "version": "116.0.2",
+    "version": "116.0.3",
     "description": "Popular open source web browser.",
     "homepage": "https://www.mozilla.org/firefox/",
     "license": "MPL-2.0",
@@ -11,12 +11,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://ftp.mozilla.org/pub/firefox/releases/116.0.2/win64/zh-CN/Firefox%20Setup%20116.0.2.exe#/dl.7z",
-            "hash": "sha512:1331739520984a621b67333d94045dc55a57db6ab31135d59de275680b92b3e10cab9e93fef0702704ffbb493d46cb55f9da6e6e5986a8764ce15603f9cb7ddf"
+            "url": "https://ftp.mozilla.org/pub/firefox/releases/116.0.3/win64/zh-CN/Firefox%20Setup%20116.0.3.exe#/dl.7z",
+            "hash": "sha512:858e6e28797efbb82e6924e4bfb685749aa2d9345accbc6dfb9893b649e483cfbc2c7c053077032575a8093924b0c331d71bbbd61d2d4cd3e8712d295ea8dea7"
         },
         "arm64": {
-            "url": "https://ftp.mozilla.org/pub/firefox/releases/116.0.2/win64-aarch64/zh-CN/Firefox%20Setup%20116.0.2.exe#/dl.7z",
-            "hash": "sha512:25073b5258a3a2f5e3c705ecc0151d37d80d860e9e81df9f82c3bb93aacfb159976a415a085d11d79e744a9b1dcdd8ed26a5c5acddc95dcbe4025b9c84c50543"
+            "url": "https://ftp.mozilla.org/pub/firefox/releases/116.0.3/win64-aarch64/zh-CN/Firefox%20Setup%20116.0.3.exe#/dl.7z",
+            "hash": "sha512:d6314bf5127da7d4ef7ec8c1dcf70734967349000645287aa5c5ecac5d98e4098258448e2844a8fcfc65fb34a1afdd29aeba549c2d2f2ea43bdd47e8fe600ed6"
         }
     },
     "extract_dir": "core",
