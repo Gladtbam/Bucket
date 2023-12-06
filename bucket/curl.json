@@ -1,12 +1,12 @@
 {
-    "version": "8.4.0_7",
+    "version": "8.4.0_10",
     "description": "Command line tool and library for transferring data with URLs",
     "homepage": "https://curl.haxx.se/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://curl.haxx.se/windows/dl-8.4.0_7/curl-8.4.0_7-win64-mingw.tar.xz",
-            "hash": "7f4dbc942a463167afbde1a8496c7515e91c4fb71bf895b2fb4ccb5379d81899",
+            "url": "https://curl.haxx.se/windows/dl-8.4.0_10/curl-8.4.0_10-win64-mingw.tar.xz",
+            "hash": "1d3b096d71c1557cc4c6cd751826452b3a27e2f396a19c47267c3486aa228adc",
             "extract_dir": "curl-8.4.0-win64-mingw"
         }
     },
