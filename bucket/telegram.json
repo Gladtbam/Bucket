@@ -1,12 +1,12 @@
 {
-    "version": "5.2.0",
+    "version": "5.2.1",
     "description": "A messaging app with a focus on speed and security",
     "homepage": "https://telegram.org",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/telegramdesktop/tdesktop/releases/download/v5.2.0/tportable-x64.5.2.0.zip",
-            "hash": "288641760f4a67d11c865417e7d4cd52d65067f100b04d3b76c73695fad08a2f"
+            "url": "https://github.com/telegramdesktop/tdesktop/releases/download/v5.2.1/tportable-x64.5.2.1.zip",
+            "hash": "f74fbbafbc84069848a74073dc4a74775adec132e346c340a62976480115d6a7"
         }
     },
     "extract_dir": "Telegram",
