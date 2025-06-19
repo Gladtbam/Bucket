@@ -1,13 +1,13 @@
 {
-    "version": "1.70.0",
+    "version": "1.70.1",
     "description": "Sync files and directories to and from mulitple cloud / FTP / HTTP hosters.",
     "homepage": "https://rclone.org",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-windows-amd64.zip",
-            "hash": "34b0a43502e508708f279108114e7e77a0a2ad94b41b27f02264b2a934201746",
-            "extract_dir": "rclone-v1.70.0-windows-amd64"
+            "url": "https://github.com/rclone/rclone/releases/download/v1.70.1/rclone-v1.70.1-windows-amd64.zip",
+            "hash": "0d2a25e856b08d689a72307f2136aba0f3e85b36594fc878378302961678088d",
+            "extract_dir": "rclone-v1.70.1-windows-amd64"
         }
     },
     "pre_install": [
